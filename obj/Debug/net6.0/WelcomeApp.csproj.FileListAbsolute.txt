@@ -1,0 +1,14 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
